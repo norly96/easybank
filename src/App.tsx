@@ -1,8 +1,13 @@
 import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Characteristics from "./components/Characteristics";
+
 function App() {
   return (
-    <div className="bg-slate-400 min-h-screen">
+    <div className=" ">
       <Navbar />
+      <Hero />
+      <Characteristics />
     </div>
   );
 }
