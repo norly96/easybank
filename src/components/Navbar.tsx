@@ -57,7 +57,7 @@ const Navbar = () => {
         </button>
       </header>
       {open && (
-        <div className="fixed py-8 shadow-dark-blue shadow-[-1px_-2px_126px_99px_rgba(0,0,0,0.78)] text-dark-blue bg-white text-2xl font-light gap-6 flex flex-col z-40 w-auto inset-x-12 top-28 items-center rounded-md bg-red-400 h-auto">
+        <div className="fixed lg:hidden py-8 shadow-dark-blue shadow-[-1px_-2px_126px_99px_rgba(0,0,0,0.78)] text-dark-blue bg-white text-2xl font-light gap-6 flex flex-col z-40 w-auto inset-x-12 top-28 items-center rounded-md bg-red-400 h-auto">
           <a className="hover:text-lime-green" href="#">
             Home
           </a>
