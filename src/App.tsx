@@ -1,14 +1,18 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Characteristics from "./components/Characteristics";
+import Articles from "./components/Articles";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className=" ">
+    <>
       <Navbar />
       <Hero />
       <Characteristics />
-    </div>
+      <Articles />
+      <Footer />
+    </>
   );
 }
 

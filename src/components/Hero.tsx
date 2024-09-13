@@ -2,8 +2,8 @@ import Button from "./ui/Button";
 
 const Hero = () => {
   return (
-    <section className="grid grid-cols-1 lg:grid-cols-2 lg:items-center justify-between font-light bg-slate-100  ">
-      {/* Design Mobile */}
+    <section className="grid grid-cols-1 lg:grid-cols-2 lg:items-center justify-between font-light bg-light-gray ">
+      {/* Mobile Design */}
       <div className="lg:hidden flex overflow-hidden">
         <img
           className=" z-10 w-full"
@@ -28,16 +28,16 @@ const Hero = () => {
           a one-stop-shop for spending, saving,
           <br /> budgeting, investing, and much more.
         </h2>
-        <div className="flex justify-center lg:justify-start">
+        <div className="flex justify-center lg:justify-start mb-12 lg:mb-0">
           <Button />
         </div>
       </div>
 
-      {/* Design Desktop */}
-      <div className="hidden lg:block overflow-hidden">
-        <img className=" z-10 " src="/images/bg-intro-desktop.svg" alt="" />
+      {/* Desktop Design */}
+      <div className="hidden lg:block">
+        <img className="z-10 " src="/images/bg-intro-desktop.svg" alt="" />
         <img
-          className="absolute -mt-[780px] translate-x-36 z-20"
+          className="absolute -mt-[780px] translate-x-36 z-20 "
           src="/images/image-mockups.png"
           alt=""
         />
