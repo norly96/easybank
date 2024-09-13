@@ -12,10 +12,10 @@ const Articles = () => {
             alt=""
           />
           <div className="px-10 my-10">
-            <h4 className="text-grayish-blue">By Claire Robinson</h4>
-            <h2 className="text-dark-blue font-normal text-xl my-2">
+            <h2 className="text-grayish-blue">By Claire Robinson</h2>
+            <h3 className="text-dark-blue font-normal text-xl my-2">
               Receive money in any currency with no fees
-            </h2>
+            </h3>
             <p className="text-mg text-grayish-blue text-start">
               The world is getting smaller and we're becoming more mobile. So
               why should you be forced to only receive money in the single...{" "}
@@ -29,10 +29,10 @@ const Articles = () => {
             alt=""
           />
           <div className="px-10 my-10">
-            <h4 className="text-grayish-blue">By Wilson Hutton</h4>
-            <h2 className="text-dark-blue font-normal text-xl my-2">
+            <h2 className="text-grayish-blue">By Wilson Hutton</h2>
+            <h3 className="text-dark-blue font-normal text-xl my-2">
               Treat yourself without worrying about money
-            </h2>
+            </h3>
             <p className="text-mg text-grayish-blue text-start">
               Our simple budgeting feature allows you to separate out your
               spending and set realistic limits each month. That means you...{" "}
@@ -46,10 +46,10 @@ const Articles = () => {
             alt=""
           />
           <div className="px-10 my-10">
-            <h4 className="text-grayish-blue">By Claire Robinson</h4>
-            <h2 className="text-dark-blue font-normal text-xl my-2">
+            <h2 className="text-grayish-blue">By Claire Robinson</h2>
+            <h3 className="text-dark-blue font-normal text-xl my-2">
               Receive money in any currency with no fees
-            </h2>
+            </h3>
             <p className="text-mg text-grayish-blue text-start">
               The world is getting smaller and we're becoming more mobile. So
               why should you be forced to only receive money in the single...{" "}
@@ -63,10 +63,10 @@ const Articles = () => {
             alt=""
           />
           <div className="px-10 my-10">
-            <h4 className="text-grayish-blue">By Claire Robinson</h4>
-            <h2 className="text-dark-blue font-normal text-xl my-2">
+            <h2 className="text-grayish-blue">By Claire Robinson</h2>
+            <h3 className="text-dark-blue font-normal text-xl my-2">
               Receive money in any currency with no fees
-            </h2>
+            </h3>
             <p className="text-mg text-grayish-blue text-start">
               The world is getting smaller and we're becoming more mobile. So
               why should you be forced to only receive money in the single...{" "}

@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL FrontendMentor](https://www.frontendmentor.io/solutions/easybank-landing-page-4K8HA6vLDZ)
+- Live Site URL: [Site URL (Vercel)](https://easybank-pearl-eight.vercel.app/)
 
 ## My process
 

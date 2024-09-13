@@ -6,13 +6,13 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <>
+    <main>
       <Navbar />
       <Hero />
       <Characteristics />
       <Articles />
       <Footer />
-    </>
+    </main>
   );
 }
 
